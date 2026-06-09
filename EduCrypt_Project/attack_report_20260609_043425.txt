@@ -1,0 +1,8 @@
+EDUCRYPT INCIDENT REPORT
+========================================
+
+Generated: 2026-06-09 04:34:25.130874
+Files Found: 14
+Simulated Encrypted: Simulated Encrypted: 14
+Threat Level: Threat Level: CRITICAL
+Attack Status: Attack Status: COMPROMISED
